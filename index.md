@@ -113,6 +113,7 @@ You may break and keep any unclaimed items from the following list:
 * Crops
 * Copper (all stages)
 * Sponges
+* Anvils
 
 ### 2.6 Exploiting bugs or unintended mechanics is not allowed.
 Using glitches or bugs to gain an advantage or harm others will result in punishment.
