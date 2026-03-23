@@ -97,23 +97,25 @@ Scamming other players, either for in-game or real-world benefit is not allowed.
 
 ### 2.5 Collecting unclaimed valuable blocks is allowed.
 You may break and keep any unclaimed items from the following list:
-* Iron
-* Gold 
-* Emerald 
-* Diamond 
-* Netherite 
-* Beacon 
-* Conduit 
-* Brewing Stand  
-* Beehives & Bee Nests 
-* Banners 
-* Map Art 
-* Siege Engines 
-* Player & Decorative Heads
+* Ancient Debris
+* Banners
+* Beacon
+* Beehives & Bee Nests
+* Brewing Stand
+* Conduit
+* Copper Blocks (all stages)
 * Crops
-* Copper (all stages)
+* Diamond
+* Emerald
+* Ender Chest
+* Gold
+* Iron
+* Map Art
+* Netherite
+* Player & Decorative Heads
+* Shulker Box
+* Siege Engines
 * Sponges
-* Anvils
 
 ### 2.6 Exploiting bugs or unintended mechanics is not allowed.
 Using glitches or bugs to gain an advantage or harm others will result in punishment.
