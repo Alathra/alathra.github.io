@@ -98,15 +98,16 @@ Scamming other players, either for in-game or real-world benefit is not allowed.
 ### 2.5 Collecting unclaimed valuable blocks is allowed.
 You may break and keep any unclaimed items from the following list:
 * Ancient Debris
+* Anvil
 * Banners
 * Beacon
 * Beehives & Bee Nests
 * Brewing Stand
 * Conduit
-* Copper Blocks (all stages)
 * Crops
 * Diamond
 * Emerald
+* Enchantment Table
 * Ender Chest
 * Gold
 * Iron
@@ -124,7 +125,7 @@ Using glitches or bugs to gain an advantage or harm others will result in punish
 Even temporary or accidental access violates the rules.
 
 ### 2.8 Hacks or unauthorized clients are not allowed.
-Only play using vanilla or approved modifications.
+Only play using vanilla or [approved modifications](#allowed-mods).
 
 ### 2.9 Builds cannot be purely utility
 Any builds that focus purely on utility over aesthetics are not allowed. For example, you are not allowed to build a massive cobblestone dropper as a mob farm, but if you make an effort to make the mob farm fit into the surrounding buildings that is allowed.
