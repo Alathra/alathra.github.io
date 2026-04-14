@@ -145,7 +145,10 @@ Inspired designs are fine—direct recreations (e.g., Eiffel Tower) are not.
 ### 2.14 Map art or pixel art is not allowed.
 Art that appears on the in-game map, even if well intended is not allowed
 
-### 2.15 You may have up to three active accounts.
+### 2.15 Killing other players' passive mobs is not allowed.
+Passive mobs that don't attack the player are not allowed to be killed in town claims.
+
+### 2.16 You may have up to three active accounts.
 The first three accounts to log in will be considered your three active accounts. Additional accounts will be banned.
 
 ## 3.0 Town & Nation Rules
