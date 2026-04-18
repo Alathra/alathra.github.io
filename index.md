@@ -58,7 +58,7 @@ These topics can quickly become divisive. Please keep them out of public channel
 
 ### 1.11 Alathra Beyond is not a mental health service.
 While we care about our community, we are not equipped to provide support for mental health issues. If you are struggling, please seek help from a professional.
-<br><sub>*Click here for [International Mental Health Hotlines](https://blog.opencounseling.com/suicide-hotlines/).*</sub>
+<br><sub>***Click here for [International Mental Health Hotlines](https://blog.opencounseling.com/suicide-hotlines/).***</sub>
 
 ### 1.12 Do not ping staff or staff roles in discord
 We are a volunteer team and work hard to address every issue brought to us as quickly as possible. However this means that staff members may not be available when you create a ticket. We check every single ticket as soon as we are able but pinging staff in a ticket or in any discord channel is a punishable offense.
@@ -78,12 +78,17 @@ Staff reserves the right to remove anyone from the community for generally poor 
 ## 2.0 Gameplay Rules
 These rules define what is and isn’t permitted on the server to ensure a fair, and enjoyable experience for all players. This section covers policies on farming, automation, griefing, stealing, exploits, and building standards.
 
-### 2.1 Fully automatic must farms be togglable.
-Any farm that is fully automatic needs to be togglable and toggled off when you are not online. AFKing automatic farms is not allowed.
+### 2.1 Farms must be constructed in a reasonable manner
+Any farm that contains an automatic component or element must be togglable, and toggled off when you are not online. Any use of flying machines must require manual player input to activate in the form of a button, lever or pressure plate. 
+
+Farms that cause considerable server lag are not allowed and players should use more performance-friendly designs wherever possible. AFKing automatic farms is not allowed. 
+
+<sub>***If need help determining whether your farm is allowed on the server, please open a [support ticket](https://discord.com/channels/1479820893957001216/1479864963307798640/1479973241337675848).***</sub> 
+
 
 ### 2.2 Griefing is not allowed in the Overworld.
 This includes damaging your own town upon departure (self-griefing) or destroying ruins without rebuilding intent. This also includes naturally generated landscape.
-<br><sub>*Renovation or constructive reuse of ruins is allowed.*</sub>
+<br><sub>***Renovation or constructive reuse of ruins is allowed.***</sub>
 
 ### 2.3 Stealing is allowed.
 Theft is permitted only if it avoids illegal methods such as:
@@ -143,7 +148,7 @@ Large-scale terrain edits should be cohesive and achievable. When in doubt, open
 Inspired designs are fine—direct recreations (e.g., Eiffel Tower) are not.
 
 ### 2.14 Map art or pixel art is not allowed.
-Art that appears on the in-game map, even if well intended is not allowed
+Art that appears on the in-game map, even if well intended is not allowed.
 
 ### 2.15 Killing other players' passive mobs is not allowed.
 Passive mobs that don't attack the player are not allowed to be killed in town claims.
