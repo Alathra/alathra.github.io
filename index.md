@@ -264,7 +264,7 @@ When a town’s owner is banned, staff will **only transfer ownership** to a cur
 * Litematica Printer
 * Brightness Mods
 * HUD Mods
-* Minimap Mods - Player Indicators Must Be Disabled. We Recommend Xaeros Fair Play
+* Minimap Mods
 * Waypoints Mods
 * Sound Improvement Mods
 * Sound Immersion Mods
